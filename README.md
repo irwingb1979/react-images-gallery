@@ -3,7 +3,7 @@ React images gallery
 
 # React images gallery
 
-Demo [link](https://my-first-angular-slider.netlify.app/)
+Demo [link](https://react-image-gallery-01.netlify.app/)
 
 ## Demo
 
